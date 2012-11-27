@@ -1,4 +1,2 @@
-SEW_12-13
-=========
-
-Schule
+Learning to use git are:
+Dominik Scholz 3CHIT/TGM
